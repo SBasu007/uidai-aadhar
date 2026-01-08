@@ -16,7 +16,7 @@
 
 4. True Duplicates = 22957
 5. Presence of the value 100000 in the rows(No meaning-delete) = 22
-6. Standardised States
-7. Standardised Districts
-8. Standardised Pincodes
-9. Check Dates 
+6. Pincode 
+        a) Format issues(!6 digits) = 0
+        b} Same pincode, multiple districts = 6576 entries
+7. Standardised State and Districts - https://igod.gov.in/sg/district/states
