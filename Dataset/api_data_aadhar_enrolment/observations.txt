@@ -1,0 +1,22 @@
+1.  Total rows - 1006029
+2.  Total columns - 7 
+3.  Every cell contains some value 
+        RangeIndex: 1006029 entries, 0 to 1006028
+        Data columns (total 7 columns):
+        #   Column          Non-Null Count    Dtype 
+        ---  ------          --------------    ----- 
+        0   date            1006029 non-null  object
+        1   state           1006029 non-null  object
+        2   district        1006029 non-null  object
+        3   pincode         1006029 non-null  int64 
+        4   age_0_5         1006029 non-null  int64 
+        5   age_5_17        1006029 non-null  int64 
+        6   age_18_greater  1006029 non-null  int64 
+        dtypes: int64(4), object(3)
+
+4. True Duplicates = 22957
+5. Presence of the value 100000 in the rows(No meaning-delete) = 22
+6. Standardised States
+7. Standardised Districts
+8. Standardised Pincodes
+9. Check Dates 
